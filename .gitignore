@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pkl
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+results/data/
+results/figures/
+results/gifs/
+results/videos/
+*.mp4
+.DS_Store
+Thumbs.db
+figure_montage.png
+
+# 旧版竞赛专用图，不作为通用项目资产发布
+assets/figures/15_技术工具与难度定位.png
